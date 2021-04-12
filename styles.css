@@ -1,0 +1,81 @@
+body {
+  background-color: LightskyBlue;
+  font-family:"Times New Roman";
+  color:black;
+}
+nav ul{
+  background-color: tomato;
+  border-style:solid;
+  border-color:MediumVioletRed;
+  border-width:2px;
+  padding:10px;
+  border-radius:10px;
+}
+nav ul li {
+  list-style-type:none;
+  display:inline;
+  margin-right:10px;
+  margin-left:10px;
+  color: PapayaWhip;
+}
+nav ul li a{
+  text-decoration: none;
+}
+nav ul li a:hover{text-decoration: none;color:white;}
+nav ul li a:visited{text-decoration: none;color:white;}
+nav ul li a:focus{text-decoration: none;color:white;}
+nav ul li a:active{text-decoration: none;color:white;}
+
+main h1{
+  text-align:center;
+  color:black;
+}
+
+main img{
+text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
